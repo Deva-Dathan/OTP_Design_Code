@@ -33,7 +33,7 @@ input::-webkit-inner-spin-button {
 }
 .otp-box input:focus{
     border: 2px solid#ff0000;
-    box-shadow: 0 0 20x 2px #ff0000;
+    box-shadow: 0 0 20x 2px #000;
 }
 .disabled{
     opacity: 0.5;
