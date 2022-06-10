@@ -56,4 +56,5 @@ input::-webkit-inner-spin-button {
 }
 .sub:hover{
     width:320px;
+    border:1px solid #000;
 }
